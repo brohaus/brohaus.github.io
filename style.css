@@ -1,0 +1,19 @@
+#ian
+{
+	position:relative;
+	width:400px;
+	margin-left:-200px;
+	left:50%;
+}
+
+#everything
+{
+	margin-left: auto;
+	margin-right: auto;
+} 
+
+#subtext
+{
+	font-family:"Helvetica";
+	font-size:100px;
+	text-align:center;
